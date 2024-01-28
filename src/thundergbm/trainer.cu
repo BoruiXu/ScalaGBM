@@ -21,11 +21,11 @@ long long total_exact_prefix_sum_time = 0;
 
 
 vector<vector<Tree>> TreeTrainer::train(GBMParam &param, const DataSet &dataset) {
-    if (param.tree_method == "auto")
-        if (dataset.n_features() > 20000)
-            param.tree_method = "exact";
-        else
-            param.tree_method = "hist";
+    //if (param.tree_method == "auto")
+    //    if (dataset.n_features() > 20000)
+    //        param.tree_method = "exact";
+    //    else
+    param.tree_method = "hist";
 
     //correct the number of classes
     if(param.objective.find("multi:") != std::string::npos || param.objective.find("binary:") != std::string::npos) {
