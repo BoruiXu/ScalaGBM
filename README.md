@@ -5,7 +5,7 @@ ScalaGBM is an efficient GPU-based GBDT system, which can handle high-dimensiona
 
 ## Prerequisites
 * cmake 2.8 or above
-* gcc 4.8 or above for Linux
+* gcc 11.x for Linux
 * CUDA 11.0+
 
 ## Introduction
