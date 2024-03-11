@@ -29,7 +29,7 @@ make -j
 
 ### Usage example
 ```bash
-./bin/scalagbm-train data=dataset/datasetname objective=binary:logistic tree_method=hist n_gpus=1 n_trees=40 depth=6
+./bin/scalagbm-train data=dataset/datasetname objective=binary:logistic tree_method=hist n_trees=40 depth=6
 ```
 
 ### Datasets
