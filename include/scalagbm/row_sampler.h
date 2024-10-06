@@ -1,0 +1,12 @@
+
+#ifndef THUNDERGBM_ROW_SAMPLER_H
+#define THUNDERGBM_ROW_SAMPLER_H
+
+#include "scalagbm/common.h"
+#include "syncarray.h"
+
+class RowSampler {
+public:
+    void do_bagging(MSyncArray<GHPair> &gradients);
+};
+#endif //THUNDERGBM_ROW_SAMPLER_H

@@ -42,7 +42,7 @@ add_definitions("-DELPP_NO_LOG_TO_FILE")
 set(COMMON_INCLUDES ${PROJECT_SOURCE_DIR}/include ${CMAKE_CURRENT_BINARY_DIR} ${PROJECT_SOURCE_DIR}/cub)
 include_directories(${COMMON_INCLUDES})
 
-add_subdirectory(src/thundergbm)
+add_subdirectory(src/scalagbm)
 
 set(BUILD_TESTS OFF CACHE BOOL "Build Tests")
 if (BUILD_TESTS)
@@ -51,5 +51,5 @@ endif ()
 
 # configuration file
 set(DATASET_DIR ${PROJECT_SOURCE_DIR}/datasets/)
-configure_file(include/thundergbm/config.h.in config.h)
+configure_file(include/scalagbm/config.h.in config.h)
 

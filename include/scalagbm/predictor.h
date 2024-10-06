@@ -1,0 +1,15 @@
+
+#ifndef THUNDERGBM_PREDICTOR_H
+#define THUNDERGBM_PREDICTOR_H
+
+#include "scalagbm/tree.h"
+#include <scalagbm/dataset.h>
+
+class Predictor{
+public:
+    vector<float_type> predict(const GBMParam &model_param, const vector<vector<Tree>> &boosted_model, const DataSet &dataSet);
+    void predict_raw(const GBMParam &model_param, const vector<vector<Tree>> &boosted_model,
+            const DataSet &dataSet, SyncArray<float_type> &y_predict);
+};
+
+#endif //THUNDERGBM_PREDICTOR_H
