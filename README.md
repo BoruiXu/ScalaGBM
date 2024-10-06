@@ -1,8 +1,7 @@
 # ScalaGBM
 
 ## Overview
-ScalaGBM is an efficient GPU-based GBDT system, which can handle high-dimensional and large-scale dataset and train fast. It is optimized based on ThunderGBM.
-
+ScalaGBM is an efficient GPU-based GBDT system, which can handle high-dimensional and large-scale dataset and train fast.
 ## Prerequisites
 * cmake 2.8 or above
 * gcc 11.x for Linux
