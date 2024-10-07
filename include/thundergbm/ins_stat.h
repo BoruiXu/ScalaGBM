@@ -1,6 +1,3 @@
-//
-// Created by shijiashuai on 5/7/18.
-//
 
 #ifndef THUNDERGBM_INS_STAT_H
 #define THUNDERGBM_INS_STAT_H

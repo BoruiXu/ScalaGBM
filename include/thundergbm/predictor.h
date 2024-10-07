@@ -1,6 +1,3 @@
-//
-// Created by zeyi on 1/12/19.
-//
 
 #ifndef THUNDERGBM_PREDICTOR_H
 #define THUNDERGBM_PREDICTOR_H

@@ -1,6 +1,3 @@
-//
-// Created by zeyi on 1/9/19.
-//
 
 #ifndef THUNDERGBM_TRAINER_H
 #define THUNDERGBM_TRAINER_H

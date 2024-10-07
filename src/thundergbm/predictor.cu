@@ -1,6 +1,3 @@
-//
-// Created by zeyi on 1/12/19.
-//
 
 #include "thundergbm/predictor.h"
 #include <thundergbm/metric/metric.h>

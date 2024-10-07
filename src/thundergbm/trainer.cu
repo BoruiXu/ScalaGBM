@@ -1,6 +1,3 @@
-//
-// Created by zeyi on 1/9/19.
-//
 #include <fstream>
 #include "cuda_runtime_api.h"
 

@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-14.
-//
 #include "thrust/reduce.h"
 #include "thundergbm/util/device_lambda.cuh"
 #include "thundergbm/metric/pointwise_metric.h"

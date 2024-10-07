@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-20.
-//
 #include "thundergbm/builder/hist_tree_builder.h"
 
 #include "thundergbm/util/cub_wrapper.h"

@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-19.
-//
 
 #include <thundergbm/builder/function_builder.h>
 #include "thundergbm/builder/exact_tree_builder.h"

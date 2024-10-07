@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 18-1-16.
-//
 
 #ifndef THUNDERGBM_COMMON_H
 #define THUNDERGBM_COMMON_H

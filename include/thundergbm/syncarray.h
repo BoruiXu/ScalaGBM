@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 17-9-17.
-//
 
 #ifndef THUNDERGBM_SYNCDATA_H
 #define THUNDERGBM_SYNCDATA_H

@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 17-9-16.
-//
 
 #ifndef THUNDERGBM_SYNCMEM_H
 #define THUNDERGBM_SYNCMEM_H

@@ -1,6 +1,3 @@
-//
-// Created by ss on 18-6-18.
-//
 
 #ifndef THUNDERGBM_MULTI_DEVICE_H
 #define THUNDERGBM_MULTI_DEVICE_H

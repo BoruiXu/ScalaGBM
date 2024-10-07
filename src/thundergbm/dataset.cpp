@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 18-1-17.
-//
 #include <omp.h>
 #include <thundergbm/dataset.h>
 #include <thundergbm/objective/objective_function.h>

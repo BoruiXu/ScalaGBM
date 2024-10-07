@@ -44,10 +44,6 @@ include_directories(${COMMON_INCLUDES})
 
 add_subdirectory(src/thundergbm)
 
-set(BUILD_TESTS OFF CACHE BOOL "Build Tests")
-if (BUILD_TESTS)
-    add_subdirectory(src/test)
-endif ()
 
 # configuration file
 set(DATASET_DIR ${PROJECT_SOURCE_DIR}/datasets/)

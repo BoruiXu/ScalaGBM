@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-3.
-//
 
 #ifndef THUNDERGBM_MULTICLASS_OBJ_H
 #define THUNDERGBM_MULTICLASS_OBJ_H

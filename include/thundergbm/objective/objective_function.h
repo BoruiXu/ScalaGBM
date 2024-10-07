@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-1.
-//
 
 #ifndef THUNDERGBM_OBJECTIVE_FUNCTION_H
 #define THUNDERGBM_OBJECTIVE_FUNCTION_H

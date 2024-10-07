@@ -1,6 +1,3 @@
-//
-// Created by qinbin on 2018/5/9.
-//
 
 #include "thundergbm/quantile_sketch.h"
 #include <math.h>

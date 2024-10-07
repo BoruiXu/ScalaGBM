@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-2.
-//
 
 #ifndef THUNDERGBM_SHARD_H
 #define THUNDERGBM_SHARD_H

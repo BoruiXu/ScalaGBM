@@ -1,6 +1,3 @@
-//
-// Created by qinbin on 2018/5/9.
-//
 
 #ifndef THUNDERGBM_HIST_CUT_H
 #define THUNDERGBM_HIST_CUT_H

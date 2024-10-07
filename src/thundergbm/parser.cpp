@@ -1,6 +1,3 @@
-//
-// Created by zeyi on 1/10/19.
-//
 
 #include "thundergbm/parser.h"
 #include <cstring>

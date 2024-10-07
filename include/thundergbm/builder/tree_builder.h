@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 19-1-23.
-//
 
 #ifndef THUNDERGBM_TREEBUILDER_H
 #define THUNDERGBM_TREEBUILDER_H

@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-12.
-//
 #include <thundergbm/objective/ranking_obj.h>
 #include "thundergbm/metric/ranking_metric.h"
 #ifndef _WIN32

@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 18-1-17.
-//
 
 #ifndef THUNDERGBM_DATASET_H
 #define THUNDERGBM_DATASET_H

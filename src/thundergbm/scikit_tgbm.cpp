@@ -1,6 +1,3 @@
-//
-// Created by zeyi on 1/12/19.
-//
 
 #include <thundergbm/trainer.h>
 #include "thundergbm/parser.h"

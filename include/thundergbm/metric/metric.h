@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-13.
-//
 
 #ifndef THUNDERGBM_METRIC_H
 #define THUNDERGBM_METRIC_H

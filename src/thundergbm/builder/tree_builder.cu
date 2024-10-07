@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 19-1-23.
-//
 
 #include <thundergbm/builder/tree_builder.h>
 #include "thundergbm/util/multi_device.h"

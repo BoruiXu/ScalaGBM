@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-17.
-//
 
 #ifndef THUNDERGBM_HIST_TREE_BUILDER_H
 #define THUNDERGBM_HIST_TREE_BUILDER_H

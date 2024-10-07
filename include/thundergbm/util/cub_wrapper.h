@@ -1,6 +1,3 @@
-//
-// Created by ss on 18-5-13.
-//
 
 #ifndef THUNDERGBM_CUB_UTIL_H
 #define THUNDERGBM_CUB_UTIL_H

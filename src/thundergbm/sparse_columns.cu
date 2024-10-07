@@ -1,6 +1,3 @@
-//
-// Created by shijiashuai on 5/7/18.
-//
 #include <thundergbm/sparse_columns.h>
 #include <thundergbm/util/cub_wrapper.h>
 

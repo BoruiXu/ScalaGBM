@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-10.
-//
 
 #ifndef THUNDERGBM_RANKING_OBJ_H
 #define THUNDERGBM_RANKING_OBJ_H

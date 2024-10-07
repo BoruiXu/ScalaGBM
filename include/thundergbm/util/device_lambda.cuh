@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 18-1-19.
-//
 
 #ifndef THUNDERGBM_DEVICE_LAMBDA_H
 #define THUNDERGBM_DEVICE_LAMBDA_H

@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 18-1-18.
-//
 #include "thundergbm/tree.h"
 #include "thundergbm/util/device_lambda.cuh"
 #include "thrust/reduce.h"

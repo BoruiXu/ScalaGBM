@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-1.
-//
 #include <thundergbm/objective/objective_function.h>
 #include "thundergbm/objective/regression_obj.h"
 #include "thundergbm/objective/multiclass_obj.h"

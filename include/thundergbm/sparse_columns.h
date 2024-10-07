@@ -1,6 +1,3 @@
-//
-// Created by shijiashuai on 5/7/18.
-//
 
 #ifndef THUNDERGBM_SPARSE_COLUMNS_H
 #define THUNDERGBM_SPARSE_COLUMNS_H

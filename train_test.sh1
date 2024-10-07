@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#name="criteo.kaggle2014.svm/train.txt.svm"
+#name="real-sim"
+path1="/home/user_home/xbr/ML_dataset/libsvm_dataset_repo"
+path2="/home/user_home/xbr/ML_dataset/xgboost/bench"
+path3="/home/user_home/xbr/ML_dataset"
+#/home/user_home/xbr/ML_dataset/xgboost/bench/
+num=1
+
+./bin/scalagbm-train data=$path2/$1 objective=binary:logistic tree_method=hist n_gpus=$num n_trees=40 depth=6  
+#max_num_bin=20
+#test
+#./bin/scalagbm-predict data=$path2/real-sim_test objective=binary:logistic tree_method=hist n_gpus=$num 

@@ -1,6 +1,3 @@
-//
-// Created by shijiashuai on 2019-02-15.
-//
 #include <thundergbm/row_sampler.h>
 #include "thundergbm/util/multi_device.h"
 #include "thundergbm/util/device_lambda.cuh"

@@ -1,6 +1,3 @@
-//
-// Created by shijiashuai on 2019-03-08.
-//
 #include "thundergbm/builder/shard.h"
 #include "thrust/sequence.h"
 #include "thundergbm/util/device_lambda.cuh"

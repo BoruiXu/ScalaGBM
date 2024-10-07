@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-17.
-//
 
 #ifndef THUNDERGBM_BOOSTER_H
 #define THUNDERGBM_BOOSTER_H

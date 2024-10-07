@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-15.
-//
 #include "thundergbm/objective/multiclass_obj.h"
 
 void

@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-13.
-//
 #include "thundergbm/metric/metric.h"
 #include "thundergbm/metric/pointwise_metric.h"
 #include "thundergbm/metric/ranking_metric.h"

@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-20.
-//
 #include "thundergbm/builder/exact_tree_builder.h"
 
 #include "thundergbm/util/multi_device.h"

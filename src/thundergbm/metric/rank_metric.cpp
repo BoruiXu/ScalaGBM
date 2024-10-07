@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-14.
-//
 #include <thundergbm/metric/ranking_metric.h>
 #ifndef _WIN32
 #include "parallel/algorithm"

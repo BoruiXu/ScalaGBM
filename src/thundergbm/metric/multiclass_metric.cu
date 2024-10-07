@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-15.
-//
 #include "thundergbm/metric/multiclass_metric.h"
 #include "thundergbm/util/device_lambda.cuh"
 #include "thrust/reduce.h"

@@ -1,4 +1,3 @@
-// Created by Qinbin on 3/15/2020
 
 #include <thundergbm/trainer.h>
 #include "thundergbm/parser.h"

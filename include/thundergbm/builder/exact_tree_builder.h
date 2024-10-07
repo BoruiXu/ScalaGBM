@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-19.
-//
 
 #ifndef THUNDERGBM_EXACT_TREE_BUILDER_H
 #define THUNDERGBM_EXACT_TREE_BUILDER_H

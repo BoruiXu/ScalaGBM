@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 17-9-16.
-//
 
 #include <thundergbm/syncmem.h>
 #include "thundergbm/util/multi_device.h"

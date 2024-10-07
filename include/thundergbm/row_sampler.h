@@ -1,6 +1,3 @@
-//
-// Created by shijiashuai on 2019-02-15.
-//
 
 #ifndef THUNDERGBM_ROW_SAMPLER_H
 #define THUNDERGBM_ROW_SAMPLER_H

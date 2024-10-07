@@ -1,6 +1,3 @@
-//
-// Created by qinbin on 2018/5/9.
-//
 #ifndef THUNDERGBM_QUANTILE_SKETCH_H
 #define THUNDERGBM_QUANTILE_SKETCH_H
 

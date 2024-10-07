@@ -1,6 +1,3 @@
-//
-// Created by ss on 19-1-13.
-//
 
 #ifndef THUNDERGBM_POINTWISE_METRIC_H
 #define THUNDERGBM_POINTWISE_METRIC_H

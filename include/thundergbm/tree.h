@@ -1,6 +1,3 @@
-//
-// Created by jiashuai on 18-1-18.
-//
 
 #ifndef THUNDERGBM_TREE_H
 #define THUNDERGBM_TREE_H
