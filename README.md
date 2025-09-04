@@ -7,9 +7,38 @@ ScalaGBM is an efficient GPU-based GBDT system, which can handle high-dimensiona
 * gcc 11.x for Linux
 * CUDA 11.7
 
-## Introduction
+## 介绍 (Introduction)
 
-### Download
+### 模型初始化 (Model Initialization)
+
+ScalaGBM 提供了灵活的模型初始化方式，支持多种任务类型和参数配置。详细的初始化指南请参考 [docs/model_initialization.md](docs/model_initialization.md)。
+
+ScalaGBM provides flexible model initialization methods, supporting various task types and parameter configurations. For detailed initialization guide, please refer to [docs/model_initialization.md](docs/model_initialization.md).
+
+#### 快速开始 (Quick Start)
+
+```bash
+# 二分类任务 (Binary Classification)
+./bin/scalagbm-train data=dataset/adult objective=binary:logistic n_trees=100 depth=6
+
+# 多分类任务 (Multi-class Classification)  
+./bin/scalagbm-train data=dataset/covtype objective=multi:softmax num_class=7 n_trees=100
+
+# 回归任务 (Regression)
+./bin/scalagbm-train data=dataset/housing objective=reg:linear n_trees=100 depth=6
+```
+
+#### 配置文件使用 (Using Configuration Files)
+
+```bash
+# 使用配置文件 (Use configuration file)
+./bin/scalagbm-train examples/config_template.conf
+
+# 命令行参数会覆盖配置文件中的设置 (Command line arguments override config file settings)
+./bin/scalagbm-train examples/config_template.conf learning_rate=0.05 n_trees=200
+```
+
+### 下载 (Download)
 ```bash
 git clone https://github.com/BoruiXu/ScalaGBM.git
 
